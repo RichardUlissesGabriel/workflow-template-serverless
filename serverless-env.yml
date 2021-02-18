@@ -1,0 +1,4 @@
+deploymentBucket:
+  serverless-deploys-packages
+role:
+  arn:aws:iam::XXXXXXXXXXX:role/lambda_vpc_execution
